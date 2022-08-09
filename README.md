@@ -179,3 +179,21 @@ Assessment](https://www.amazon.com/Art-Software-Security-Assessment-Vulnerabilit
 * [Sushi Roll](https://gamozolabs.github.io/metrology/2019/08/19/sushi_roll.html)
 * [Princeton](https://www.youtube.com/watch?v=9nuAjYRbITQ&t=13975s&ab_channel=Nerd%27slesson)
 * [ETH Zuerich](https://www.youtube.com/watch?v=AJBmIaUneB0&list=PL5Q2soXY2Zi_FRrloMa2fUYWPGiZUBQo2&ab_channel=OnurMutluLectures)
+---
+
+I've put together my personal thoughts on getting started and what the important concepts are [here](https://dayzerosec.com/posts/getting-started/) and a few posts on advancing after the basics to real-world targets: https://dayzerosec.com/tags/ctf-to-real-world/. The second post in that series talks about getting into the vuln research side of things.
+
+Shouting out a few of my favourites specifically:
+
+ - [Pwn.College](https://pwn.college), a standalone course starting from basics, really good content and its nice not needing to switch between different resources.
+ - [OpenSecurityTraining](https://ost.fyi), while they have not yet updated their exploitation course, on a whole is a ton of good content on OST that is relevant. And they put out a Vulns 101 course earlier this yet, I haven't gone over it yet, but learning about corn vulnerabilities rather than just exploitation techniques is a bit of a missing topic in a lot of resources so it seems like a good start.
+ - [Nightmare](https://guyinatuxedo.github.io/), I like this as more of a reference resource. Want to play around with a particular concept, see if its in there and do the challenges rather than running through the whole thing end-to-end, but you could.
+
+Not exactly learning resource to start with, but keeping up with whats being found and disclosed is useful too. You don't have to be a master to understand modern exploits, some are pretty difficult like a browser exploit, but many like in IOT devices will be straight forward, so finding writeups that are at your level is useful. To that end there are two resources I'm involved with making:
+
+ - [0dayfans](https://0dayfans.com), I put this together to kinda try and aggregate a number of different blogs for vuln writeups. It has a mix of different types of issues, not just binary, but binary stuff does pop-up too. Also the list of blogs is available to checkout at: https://0dayfans.com/feeds.txt
+ - [dayzerosec](https://dayzerosec.com), we do two episodes a week (currently on a break until september though) one is focused on binary-level vulnerabilities and exploitation. While its not absolute beginner friendly, we try and break down the vulnerabilities every week to make them more digestible, and share our own thoughts on discovery and exploitation. And we take questions from chat which is more beginner friendly.
+
+
+
+
